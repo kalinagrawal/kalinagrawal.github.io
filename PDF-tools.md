@@ -1,6 +1,6 @@
 # Tools for PDFs
 
-> Here is an accumulation of other people's notes on dealing with PDFs.
+*Here is an accumulation of other people's notes on dealing with PDFs.*
 
 ## Guide (with links to tools) on dealing with PDFs
 
