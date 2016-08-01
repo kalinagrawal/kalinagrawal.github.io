@@ -1,3 +1,8 @@
+---
+title: This is my title
+layout: post
+---
+
 # Tools for PDFs
 
 *Here is an accumulation of other people's notes on dealing with PDFs.*
